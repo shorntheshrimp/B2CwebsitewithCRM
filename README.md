@@ -52,4 +52,4 @@ The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
 
-![alt text](https://github.com/shorntheshrimp/B2CwebsitewithCRM/blob/main/aboutus.png?raw=true)
+![alt text](https://github.com/shorntheshrimp/B2CwebsitewithCRM/blob/main/Screenshots/aboutus.png?raw=true)
