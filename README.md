@@ -51,3 +51,8 @@ Other environment agnostic settings can be changed in `config/app.php`.
 The app skeleton uses [Milligram](https://milligram.io/) (v1.3) minimalist CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+
+D:\Personal Github Repo\B2CwebsitewithCRM_DIYone\Screenshots\aboutus.png
+![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![alt text](https://github.com/ shorntheshrimp /
+B2CwebsitewithCRM/blob/main/aboutus.png?raw=true)
