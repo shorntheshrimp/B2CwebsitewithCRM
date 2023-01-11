@@ -1,3 +1,7 @@
+# DIYone
+
+DIYone is a B2C website developed fully with CakePHP framework with phpmyadmin(MySQL) as backend. This project is a concept piece for connecting talented craftsman to customers with an interest for customized hardware with a focus on innovative DIY. With different tiers in Craftsmanship, consumers of different backgrounds and economical restraints can shop without feeling overwhelmed by the marked up pricing in other retail settings. This idea is inspired from my personal experience as a consumer. 
+
 # CakePHP Application Skeleton
 
 ![Build Status](https://github.com/cakephp/app/actions/workflows/ci.yml/badge.svg?branch=master)
